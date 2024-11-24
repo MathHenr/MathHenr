@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 🏷 Meu nome é Matheus Henrique, e sou um jovem apaixonado por programação, e esta descoberta começou através do canal Curso em Vídeo. Tenho grande interesse em aprimorar constantemente minhas habilidades nas tecnologias que utilizo, que atualmente são JS, TypeScript e NodeJS, além de estar sempre em busca de aprender alguma linguagem nova. Atualmente sou aluno do 6º período de graduação de Engenharia Agrícola na Unicamp - Universidade Estadual de Campinas.
 
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 
 - 📘 Atualmente estou me aprimorando em JS, TS e Node, e buscando aprender C# e python.
 
-- 📱 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-henrique-sobrinho-987831188/)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">]
+- 📱 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-henrique-sobrinho-987831188/)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">]()
+-->
