@@ -14,4 +14,4 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathHenr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=MathHenr&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathHenr&layout=compact&langs_count=6)
