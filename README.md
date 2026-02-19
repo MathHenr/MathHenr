@@ -1,17 +1,12 @@
-## About me 🔭
-- Meu nome é Matheus Henrique, e sou um jovem apaixonado por programação, e esta descoberta começou através do canal Curso em Vídeo. Tenho grande interesse em aprimorar constantemente minhas habilidades nas tecnologias que utilizo, que atualmente são JS, TypeScript e NodeJS, além de estar sempre em busca de aprender alguma linguagem nova. Atualmente sou aluno do 6º período de graduação de Engenharia Agrícola na Unicamp - Universidade Estadual de Campinas.
+Hi, I'm Matheus, a former Agricultural Engineering student at Unicamp currently transitioning into the tech world, based in Campinas.
 
-- Gosto de fazer projetos que vão ser gratificantes para mim quando finalizados, além de que planeja-los e faze-los de maneira coesa e "limpa" me da um certo ânimo (disclaimer: meus primeiros projetos são uma bagunça e acabados do nada por falta de planjamento).
+I enjoy building clean, functional, and cohesive websites and web applications.
 
-## Tecnologias e estudos recentes 📘 
-- Atualmente estou me aprimorando em JS, TS e Node, e buscando aprender C# e python.
+My main tools are React, TypeScript, Next.js, and Tailwind CSS. I’ve also worked on a few small private projects in Python related to data mining during my time at university.
 
-## Redes 📱
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-henrique-sobrinho-987831188/)<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+---
 
-## Skills 🚀
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
-
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathHenr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathHenr&layout=compact&langs_count=6)
+Fun facts:
+☕ Coffee is in my top 3 favorite drinks
+🐶 I have a Shih Tzu that I treat like my son
+🎧 Hobbies: podcasts and working out
