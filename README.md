@@ -1,4 +1,6 @@
-Hi, I'm Matheus, a former Agricultural Engineering student at Unicamp currently transitioning into the tech world, based in Campinas.
+*** Hi, there
+
+I'm Matheus, a former Agricultural Engineering student at Unicamp currently transitioning into the tech world, based in Campinas.
 
 I enjoy building clean, functional, and cohesive websites and web applications.
 
