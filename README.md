@@ -1,4 +1,4 @@
-*** Hi, there
+## Hi there 👋 
 
 I'm Matheus, a former Agricultural Engineering student at Unicamp currently transitioning into the tech world, based in Campinas.
 
@@ -9,6 +9,6 @@ My main tools are React, TypeScript, Next.js, and Tailwind CSS. I’ve also work
 ---
 
 Fun facts:
-☕ Coffee is in my top 3 favorite drinks
-🐶 I have a Shih Tzu that I treat like my son
-🎧 Hobbies: podcasts and working out
+- ☕ Coffee is in my top 3 favorite drinks
+- 🐶 I have a Shih Tzu that I treat like my son
+- 🎧 Hobbies: podcasts and working out
