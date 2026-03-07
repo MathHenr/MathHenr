@@ -4,7 +4,7 @@ I'm Matheus, a former Agricultural Engineering student at Unicamp currently stud
 
 I enjoy building clean, functional, and cohesive websites and web applications.
 
-My main tools are React, TypeScript, Next.js, and Tailwind CSS. I’ve also worked on a few small private projects in Python related to data mining during my time at university.
+My main tools are React, TypeScript, Next.js, and Tailwind CSS. I’ve also worked on a few small private projects in Python related to data mining during my time at university. I'm currently reading Grokking Algorithms alongside Head First Java.
 
 ---
 
